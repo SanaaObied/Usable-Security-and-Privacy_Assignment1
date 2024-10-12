@@ -1,7 +1,7 @@
-                                                                                 Part A: Short Description
+                                                                 Part A: Short Description
 
 In today's digital world, ensuring online security and privacy is crucial for users. One common security challenge is understanding SSL (Secure Sockets Layer) warnings, which alert users about potentially insecure connections. This part of the assignment aims to help users analyze and interpret these warnings, assessing their ability to understand the risks involved and make informed decisions when encountering such alerts. Through a series of questions, users will reflect on how to handle these warnings and design a more user-friendly interface for SSL alerts, enhancing security without compromising usability.
 
-                                                                                 Part B: Short Description
+                                                                  Part B: Short Description
 
 In Part B, the focus shifts to evaluating the usability of security warnings beyond SSL alerts. Users are tasked with finding an additional example of a security or privacy-related warning message and analyzing its usability. The goal is to identify why the chosen warning might be difficult for users to understand or act upon. Drawing from the material covered in the course, users will critique the design and clarity of the warning and propose a more user-friendly version. This section emphasizes the importance of simplicity, visual appeal, and clear communication in security alerts to ensure users can easily comprehend and respond to the risks presented.
